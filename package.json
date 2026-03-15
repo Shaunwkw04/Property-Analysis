@@ -2,6 +2,7 @@
   "name": "property-analysis",
   "private": false,
   "version": "0.0.0",
+  "homepage": "https://shaunkw04.github.io/property-analysis",
   "type": "module",
   "scripts": {
     "dev": "vite",
